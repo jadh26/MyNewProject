@@ -109,7 +109,7 @@ span.price {
 </style>
 </head>
 <body>
-<h3>Flight Search Engine</h3>
+<h3>Flight Booking Form</h3>
 <div class="row">
   <div class="col-75">
     <div class="container">
@@ -149,15 +149,15 @@ span.price {
               <i class="fa fa-cc-discover" style="color:orange;"></i>
             </div>
             <label for="cname">Name on Card</label>
-            <input type="text" id="cname" name="cardname" placeholder="John More Doe">
+            <input type="text" id="cname" name="cardname" placeholder="Bhagyashree Jadhav">
             <label for="ccnum">Credit card number</label>
             <input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444">
             <label for="expmonth">Exp Month</label>
-            <input type="text" id="expmonth" name="expmonth" placeholder="September">
+            <input type="text" id="expmonth" name="expmonth" placeholder="December">
             <div class="row">
               <div class="col-50">
                 <label for="expyear">Exp Year</label>
-                <input type="text" id="expyear" name="expyear" placeholder="2018">
+                <input type="text" id="expyear" name="expyear" placeholder="2022">
               </div>
               <div class="col-50">
                 <label for="cvv">CVV</label>
